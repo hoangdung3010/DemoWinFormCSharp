@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\ZzzWF\ZzzWF\bin\Debug\ZzzWF.exe.config
+C:\Users\ADMIN\source\repos\ZzzWF\ZzzWF\bin\Debug\ZzzWF.exe
+C:\Users\ADMIN\source\repos\ZzzWF\ZzzWF\bin\Debug\ZzzWF.pdb
+C:\Users\ADMIN\source\repos\ZzzWF\ZzzWF\obj\Debug\ZzzWF.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\ZzzWF\ZzzWF\obj\Debug\ZzzWF.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\ZzzWF\ZzzWF\obj\Debug\ZzzWF.Form1.resources
+C:\Users\ADMIN\source\repos\ZzzWF\ZzzWF\obj\Debug\ZzzWF.FormCreate.resources
+C:\Users\ADMIN\source\repos\ZzzWF\ZzzWF\obj\Debug\ZzzWF.FormEdit.resources
+C:\Users\ADMIN\source\repos\ZzzWF\ZzzWF\obj\Debug\ZzzWF.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\ZzzWF\ZzzWF\obj\Debug\ZzzWF.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\ZzzWF\ZzzWF\obj\Debug\ZzzWF.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ZzzWF\ZzzWF\obj\Debug\ZzzWF.exe
+C:\Users\ADMIN\source\repos\ZzzWF\ZzzWF\obj\Debug\ZzzWF.pdb
+C:\Users\ADMIN\source\repos\ZzzWF\ZzzWF\obj\Debug\ZzzWF.CreateForm.resources
+C:\Users\ADMIN\source\repos\ZzzWF\ZzzWF\obj\Debug\ZzzWF.EditForm.resources
